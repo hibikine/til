@@ -1,4 +1,4 @@
-# 画像のリサイズ
+# ImageMagickを使ったリサイズ
 
 convertかmogrifyを使う
 
